@@ -13,6 +13,7 @@ Class "Node" have the following Specifications:
 3-methods called AND() / OR() / XOR() to perform the logical operation between two nodes objects.
 
 
+
 class Called "Gate" which has two input nodes and one output node data members
 
 Class Gate support the following methods:
@@ -26,6 +27,7 @@ Class Gate support the following methods:
 4-function simulateGate() returns the logic value of the gate according to its type.
 
 
+
 Class called "Simulator" which accpets all types of gates then calculate circuits outputs, It has the following specifications:
 
 1-array of pointers to Gate and array of pointers to Node.
@@ -37,6 +39,7 @@ Class called "Simulator" which accpets all types of gates then calculate circuit
 4-Method FindNode() accepts a string node's name to find it in the container and return its address.
 
 5-Method startSimulate() start the simulation for each gate by looping over the gates container.
+
 
 
 
@@ -68,7 +71,7 @@ Write "OUT" to view the output of a specific node or "OUT ALL" to view all nodes
 
 
 
-#Output Format
+# Output Format
 
 Output format should be the node symbol: node Value.
 
