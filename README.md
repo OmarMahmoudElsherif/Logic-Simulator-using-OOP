@@ -7,6 +7,7 @@ Class called "Node" has name and value data members to represent each node in th
 Class "Node" have the following Specifications:
 
 1-Default and non-default Constructor.
+
 2-Setters and getters.
 4-methods called AND() / OR() / XOR() to perform the logical operation between two nodes objects.
 
