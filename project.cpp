@@ -1,8 +1,4 @@
-//============================================================================
-// Name        : project.cpp
-// Author      : Omar Mahmoud Mohamed Khalil Elsherif
-// Description : Logic Simulator using C++
-//============================================================================
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
