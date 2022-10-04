@@ -52,7 +52,7 @@ Class called "GateGenerator" that generates the nodes and all sepcified gates fr
 
 
 
-#Input Format
+# Input Format
 
 The input follows these formats:
 
@@ -73,7 +73,7 @@ Write "OUT" to view the output of a specific node or "OUT ALL" to view all nodes
 Output format should be the node symbol: node Value.
 
 
-Sample Input :
+# Sample Input :
 AND A B D
 
 OR C D E
@@ -91,7 +91,8 @@ OUT E
 OUT ALL
 
 
-Sample Output:
+# Sample Output:
+
 E: 1
 
 A: 1
